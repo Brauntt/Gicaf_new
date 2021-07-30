@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-image
+opencv-python
+tensorflow
+tensorflow_hub>=0.6.0
+torch
+torchvision
+PyDrive
+httplib2==0.15.0
+google-api-python-client==1.7.11
+google-colab
